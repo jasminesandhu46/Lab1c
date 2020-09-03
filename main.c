@@ -7,8 +7,8 @@
 #include <stdlib.h>
 
 int main(void) {
-  char *tempstr = readline("Enter temperature in celsius: ");
-  double temp = atof(tempstr);
-  printf("%f° in Celsius is equivlent to %f° Fahrenheit.\n", temp, 101.3);
-  return 0;
+  char *temp = readline("Enter temperature in celsius: ");
+  double cel = atof(temp);
+  double fahr = 1.8*cel + 32;
+printf("%f° in Celsius is equivlent to %f° Fahrenheit.", cel,fahr);
 }
