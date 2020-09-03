@@ -1,4 +1,4 @@
-// Author: Jasmine Sandhu jps6818@psu.edu
+// Author: Jasmine Sandhu jps6818@psu.ed
 // Collaborator: Brian Truong bqt5199@psu.edu
 // Collaborator: Gabriel Charpentier gbc5202@psu.edu
 
